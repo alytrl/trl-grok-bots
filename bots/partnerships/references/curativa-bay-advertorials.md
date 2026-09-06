@@ -1,21 +1,32 @@
-# Donut advertorial references — Curativa Bay
+# Curativa Bay × The Donut — Advertorial Gold Standards
 
-Live examples used to tune the Advertorial bot:
+**Local source:** `/Users/alyssawee/Documents/TRL/Consulting/the donut/whitelisting/curativabay-hocl-advertorial/`
 
-1. https://shop.thedonut.co/curativa-bay-skin-spray-i-tried-everything/
-   - "I tried everything" personal arc for adult acne / sensitive skin
-   - Three-ingredient HOCl education, value bundle math, comparison table
+## Live URLs
+- https://shop.thedonut.co/curativa-bay-skin-spray-i-tried-everything/
+- https://shop.thedonut.co/curativa-bay-vs-active-skin-repair
 
-2. https://shop.thedonut.co/curativa-bay-vs-active-skin-repair
-   - Head-to-head vs Active Skin Repair
-   - Ingredients / PPM / price-per-ounce rounds; honest split of use cases
+## Pattern (article #1 design spec, 2026-07-01)
+1. First-person bylined editorial (trusted reviewer, not brand PR)
+2. Personal problem → failed alternatives → discovery
+3. Plain-English science / ownable hook
+4. Product specifics (ingredients, size/value)
+5. Honest limits / personal-precaution framing
+6. Comparison table when it's a vs piece
+7. Soft CTA (promo code only if verified on live PDP)
 
-## Pattern checklist
-- Bylined first-person Donut editorial voice
-- Problem → failed solutions → discovery → science → product proof → comparison → soft CTA
-- Approved claims only; state limits honestly
-- Label-sourced competitor facts when comparing
-- Photos with captions that advance the story
+Format reference historically: Girlboss protein-powder lander arc.  
+Code chrome: reuse sibling article CSS/JS/masthead/footer patterns.
 
-## Note on source code
-Curativa build work may live in local Claude Code / VS Code projects on Alyssa's Mac rather than GitHub. Prefer local folders when hunting implementation examples.
+## Compliance (Curativa — heavier than TFH)
+- Personal-precaution voice only
+- No cure/treat/heal/remedy/medicine
+- No disease claims
+- No EPA claim on Skin Spray (Disinfectant-only)
+- Footer disclosure: author's experience, not a medical claim
+- No em dashes
+
+## Author chrome (existing pieces)
+Kendra Secrett byline + bio pattern on live Donut landers.
+
+Curativa Bay is a **former** TRL client (confirmed 2026-09-04). Use for pattern + historical claims only; re-verify PDP before any new copy.
